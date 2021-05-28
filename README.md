@@ -1,2 +1,5 @@
 # ML_deployment_using_streamlit
-deployment of machine learning model on web.
+
+The deployment of model is done by using streamlit library
+
+![](Images/Capture.PNG)
